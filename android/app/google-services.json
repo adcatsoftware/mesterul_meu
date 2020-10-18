@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257505961462",
+    "firebase_url": "https://mesterul-meu.firebaseio.com",
+    "project_id": "mesterul-meu",
+    "storage_bucket": "mesterul-meu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257505961462:android:1da33fbedd9026f331d3d7",
+        "android_client_info": {
+          "package_name": "com.adcatsoftware.mesterulmeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257505961462-g2t2n2p6695s6e3gv2l1p4qolhul8rp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adcatsoftware.mesterulmeu",
+            "certificate_hash": "da7729a019104d05ca2f1398a7fcc2a367166e1b"
+          }
+        },
+        {
+          "client_id": "257505961462-2cpf5a2h642tcfj6m4qvlli60qtmfrpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvf9Mkc5-31Bl71Fdi35fyYOG_oPhKZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257505961462-2cpf5a2h642tcfj6m4qvlli60qtmfrpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
